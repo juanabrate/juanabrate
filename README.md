@@ -8,7 +8,7 @@
 </h4>
 
 <br/>
-⬤ 📫 You can contact me at:
+● 📫 You can reach me at:
 <p>
       <a href="https://www.linkedin.com/in/contreras-cesar-alejandro/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
