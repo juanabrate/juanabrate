@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-![portfolio](https://github.com/[juanabrate]/[juanabrate]/blob/[master]/portfolio.png?raw=true)
+![Screenshot](portfoliot.png)
 
 ## Languages
 
