@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-![Screenshot](portfolio.png)
+![Portfolio](portfolio.png)
 
 ## Languages
 
