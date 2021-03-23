@@ -44,7 +44,7 @@
 **juan.abrate21@gmail.com**
 
 
-<br/>
+
  
  <h4>● 🌱 Currently working on my new portfolio ￬</h4>
  
