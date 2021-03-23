@@ -8,7 +8,7 @@
 </h4>
 
 <br/>
-● 📫 You can reach me at: 
+● 📫 You can reach me at:\
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-abrate-8a93b81a7/)
