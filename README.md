@@ -13,8 +13,6 @@
 
 <br/><br/>
 
-![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
-
 ## Languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -32,6 +30,9 @@
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
 <br/>
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+ 
+ 
+ ![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
 
 
 
