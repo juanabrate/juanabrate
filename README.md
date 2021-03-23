@@ -7,9 +7,8 @@
 <p align="center"> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
 </p>
 
-
+<br/>
 - 📫 You can contact me at **juan.abrate21@gmail.com**
-
 <br/>
 
 ## Languages
