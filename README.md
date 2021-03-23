@@ -12,6 +12,8 @@
 
 <br/><br/>
 
+![portfolio](https://github.com/[juanabrate]/[juanabrate]/blob/[branch]/portfolio.png?raw=true)
+
 ## Languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
