@@ -4,8 +4,8 @@
 <h1 align="center">Hi world! 👋 I'm Juan</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 
-<p align="center"> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
-</p>
+<h4 align="center"> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
+</h4>
 
 <br/>
 - 📫 You can contact me at **juan.abrate21@gmail.com**
