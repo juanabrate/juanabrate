@@ -3,10 +3,10 @@
 <h1 align="center">Hi world! 👋 I'm Juan</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 
+<p> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
+</p>
+
 ## Languages
-
-
-
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -24,6 +24,7 @@
 <br/>
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
+- 📫 You can contact me at **juan.abrate21@gmail.com**
 
 
 
