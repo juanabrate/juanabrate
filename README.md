@@ -29,8 +29,6 @@
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 
-   
-<br/>
 
 ● 📫 **You can reach me at**:<br/><br/>
 
