@@ -11,7 +11,7 @@
 • 📫 You can contact me at juan.abrate21@gmail.com 
 <br/>
 
-## Languages
+## Technologies
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
