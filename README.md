@@ -8,7 +8,16 @@
 </h4>
 
 <br/>
-• 📫 You can contact me at **juan.abrate21@gmail.com 
+⬤ 📫 You can contact me at:
+<p>
+      <a href="https://www.linkedin.com/in/contreras-cesar-alejandro/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:contreras.cesar.al@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   <p><label>juan.abrate21@gmail.com</label></p>
 <br/>
 
 ## Technologies
