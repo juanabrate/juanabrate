@@ -1,4 +1,4 @@
-
+![img](https://user-images.githubusercontent.com/68609187/112193031-3d2c8980-8be6-11eb-8d18-6c33109056da.jpg)
 
 
 <h1 align="center">Hi world! 👋 I'm Juan</h1>
@@ -7,9 +7,9 @@
 <h4 align="center"> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
 </h4>
 
-<br/>
 
-![img](https://user-images.githubusercontent.com/68609187/112193031-3d2c8980-8be6-11eb-8d18-6c33109056da.jpg)
+
+
 
 
 <br/>
