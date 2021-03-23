@@ -14,6 +14,9 @@
 
 ![Portfolio](portfolio.png)
 
+
+<img src="C:\Users\Juan\Documents\GitHub\juanabrate\portfolio.png"/>
+
 ## Languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
