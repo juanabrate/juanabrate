@@ -17,6 +17,8 @@
 
 <img src="C:\Users\Juan\Documents\GitHub\juanabrate\portfolio.png"/>
 
+![Alt text](C:\Users\Juan\Documents\GitHub\juanabrate\portfolio.png?raw=true)
+
 ## Languages
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
