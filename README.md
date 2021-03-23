@@ -30,7 +30,7 @@
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
   ![postgres](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=graphql)
-<br/>
+<br/><br/>
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <br/>
