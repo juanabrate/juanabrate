@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">Hi world! 👋 I'm Juan</h1>
 <h3 align="center">I'm a Full Stack developer from Argentina</h3>
 
@@ -12,12 +13,7 @@
 
 <br/><br/>
 
-![Portfolio](portfolio.png)
-
-
-<img src="C:\Users\Juan\Documents\GitHub\juanabrate\portfolio.png"/>
-
-![Alt text](C:\Users\Juan\Documents\GitHub\juanabrate\portfolio.png?raw=true)
+![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
 
 ## Languages
 
