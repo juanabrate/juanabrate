@@ -31,7 +31,7 @@
 <br/>
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  
- - 🌱 <h4>Currently working on my new portfolio ￬</h4>
+ <h4>- 🌱 Currently working on my new portfolio ￬</h4>
  
  ![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
 
