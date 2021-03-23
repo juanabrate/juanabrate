@@ -7,13 +7,7 @@
 <h4> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
 </h4>
 
-
-
-
-
-
 <br/>
-
 
 ## Languages and tools
 
