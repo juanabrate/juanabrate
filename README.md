@@ -1,5 +1,7 @@
-Hi 
 
+
+<h1 align="center">Hi world! 👋 I'm Juan</h1>
+<h3 align="center">I'm a Full Stack developer from Argentina</h3>
 
 ## Languages
 
