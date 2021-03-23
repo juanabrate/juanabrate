@@ -8,7 +8,7 @@
 </h4>
 
 <br/>
-• 📫 You can contact me at **juan.abrate21@gmail.com**
+• 📫 You can contact me at juan.abrate21@gmail.com 
 <br/>
 
 ## Languages
