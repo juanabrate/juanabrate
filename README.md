@@ -15,7 +15,7 @@
 <br/>
 
 
-## Technologies
+## Languages and tools
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
