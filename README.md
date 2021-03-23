@@ -32,7 +32,7 @@
    
 <br/>
 
-● 📫 **You can reach me at:<br/><br/>
+● 📫 **You can reach me at**:<br/><br/>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-abrate-8a93b81a7/)
