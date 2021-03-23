@@ -7,11 +7,11 @@
 <p align="center"> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
 </p>
 
-<br/><br/>
+<br/>
 
 - 📫 You can contact me at **juan.abrate21@gmail.com**
 
-<br/><br/>
+<br/>
 
 ## Languages
 
@@ -31,6 +31,7 @@
 <br/>
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
  
+ - 🌱 <h4>Currently working on my new portfolio ￬</h4>
  
  ![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
 
