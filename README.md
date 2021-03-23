@@ -9,15 +9,11 @@
 
 <br/>
 ● 📫 You can reach me at:
-<p>
-      <a href="https://www.linkedin.com/in/juan-abrate-8a93b81a7/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Juan Abrate LinkedIn Profile" height="30" width="30">
-      </a>   
-      <a align='right' href="juan.abrate21@gmail.com">
-         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
-            juan.abrate21@gmail.com
-      </a>  
-   </p>
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juan.abrate21@gmail.com) **juan.abrate21@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-abrate-8a93b81a7/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/juanabrate)
+
    
 <br/>
 
