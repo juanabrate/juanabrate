@@ -37,12 +37,14 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juan.abrate21@gmail.com)<br/>
 **juan.abrate21@gmail.com**
 
-
-
  
  <h4>● 🌱 Currently working on my new portfolio ￬</h4>
  
  ![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
+ 
+ 
+● 📄 **My Experience**:<br/>
+&nbsp; avag
 
 
 
