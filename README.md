@@ -9,8 +9,6 @@
 
 <br/>
 
-● 📄 &nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** 
-
 
 
 ## Languages and tools
@@ -32,6 +30,8 @@
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 <br/>
+
+● 📄 &nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** <br/>
 
 ● 📫 **You can reach me at**:<br/>
 
