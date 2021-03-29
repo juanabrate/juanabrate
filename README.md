@@ -9,7 +9,7 @@
 
 <br/>
 
-● 📄 nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** 
+● 📄 &nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** 
 
 
 
