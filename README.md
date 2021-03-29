@@ -9,6 +9,10 @@
 
 <br/>
 
+● 📄 nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** 
+
+
+
 ## Languages and tools
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -43,8 +47,7 @@
  ![portfolio](https://user-images.githubusercontent.com/68609187/112183496-128a0300-8bdd-11eb-86c1-cea30ad7590b.PNG)
  
  
-● 📄 **My Experience**:<br/>
-&nbsp; avag
+
 
 
 
