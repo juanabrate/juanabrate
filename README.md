@@ -11,7 +11,7 @@
 
 
 
-● 🔭 → **My portfolio: https://juanabrate.github.io/portfolio/**
+● 🔭 → **My personal web app: https://juanabrate.github.io/portfolio/**
 
 
 ## Languages and tools
