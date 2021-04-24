@@ -10,7 +10,7 @@
 
 
 
-● 🔭 → **My personal web app: https://juanabrate.github.io/portfolio/**
+● 🔭 → **Personal web app: https://juanabrate.github.io/portfolio/**
 
 
 ## Languages and tools
