@@ -1,11 +1,10 @@
 
 
 
-<h2>Hey, 👋 I'm Juan</h2>
-<h3>I'm a full-stack developer from Argentina</h3>
 
-<h4> I have a serious passion for UX/UI design, creating intuitive and dynamic user experiences.
-</h4>
+<h3>Full-stack developer from Argentina</h3>
+
+
 
 <br/>
 
