@@ -22,9 +22,9 @@
 
 <br/>
 
-● 📄 &nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** <br/><br/>
+●  &nbsp; → **Full Stack Certificate: https://certificates.soyhenry.com/cert?id=775add01-c9af-4e60-8bf5-c9c6287f15b0** <br/><br/>
 
-● 📫 **You can reach me at**:<br/>
+
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-abrate-8a93b81a7/)
